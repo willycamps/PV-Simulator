@@ -2,7 +2,7 @@
 
 
 # Description
-
+More information about messaging broker: https://www.rabbitmq.com/
 
 ## Getting Started
 
